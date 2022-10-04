@@ -1,0 +1,3 @@
+venv
+*pycache*
+ten_tallest.csv
